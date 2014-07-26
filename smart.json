@@ -1,0 +1,10 @@
+{
+  "name": "slack-notify",
+  "description": "Send information to slack channel",
+  "homepage": "https://github.com/gdiab/slack-notify",
+  "author": "George Diab <georgediab@goto10solutions.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/gdiab/slack-notify.git",
+  "packages": {
+  }
+}
