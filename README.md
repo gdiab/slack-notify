@@ -1,12 +1,24 @@
 Meteor package for slack-notify (https://github.com/andrewchilds/slack-notify)  
 
-add your slack webhooks path to the settings.json file, create one if you don't already have one.
+------------------------
+### Installation
 
+First, install the slack-notify package from the command line:
+
+````
+mrt add slack-notify
+````
+
+Second, add your slack webhooks path to the settings.json file, create one if you don't already have one.
+
+````
 {
 	"slack" : 'https://myaccountname.slack.com/services/hooks/incoming-webhook?token=myToken'
 }
+````
 
-USES:
+------------------------
+### Uses
 
 // Bundled notification types:
 
